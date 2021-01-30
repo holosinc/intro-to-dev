@@ -23,27 +23,27 @@ Now that you have an understand of what Unity is and what you can do with it. Le
 
 1. ### Download Unity Hub
     Unity Hub is a platform where you can manage all the Unity projects and their different versions. Go to Unity website (https://unity3d.com/get-unity/download) and "Download Unity Hub"
-    <img src="Docs/download_unityhub.png" alt="Unity3D" width="400"/>
+    <img src="Docs/download_unityhub.PNG" alt="Unity3D" width="400"/>
 
 2. ### Sign In and Download Unity
    Now that you have Unity Hub installed, you are one step closer to building your VR experience. Run Unity Hub and click on the top right icon to sign in. You might be qualified for free Unity Education license, check out [here](https://unity.com/education/license-grant-program). 
-   <img src="Docs/sign_in_unityhub.png" alt="Unity3D" width="400"/>
+   <img src="Docs/sign_in_unityhub.PNG" alt="Unity3D" width="400"/>
    
    Next step is the real deal: install Unity! Go to "Installs" on the left panel and click on "Add". Your install page is probably blank at the moment, and that's okay.
 
-   <img src="Docs/add_unity.png" alt="Unity3D" width="400"/>
+   <img src="Docs/add_unity.PNG" alt="Unity3D" width="400"/>
 
    For this tutorial, we will install `Unity 2019.4.18f1 (LTS)`. New Unity versions might come out but make sure to install the version with (`LTS`). LTS stands for ***Long Term Support***, which means Unity will continue to bug fix and support for two years after the release date. 
 
-    <img src="Docs/install_unity.png" alt="Unity3D" width="400"/>
+    <img src="Docs/install_unity.PNG" alt="Unity3D" width="400"/>
 
     Next step is adding modules to the Unity install. Depending on your preference, you can install Visual Studio or Visual Studio Code (download [here](https://code.visualstudio.com/)). If you any further question regarding which module to get, refer to the [Q&A section](#common-qa).
 
-    <img src="Docs/add_unity_module.png" alt="Unity3D" width="400"/>
+    <img src="Docs/add_unity_module.PNG" alt="Unity3D" width="400"/>
 
     Once if you finish selecting the modules, hit "Done". A downloading Unity should appear and you are on your way to become a VR developer! 
 
-    <img src="Docs/download_unity.png" alt="Unity3D" width="400"/>
+    <img src="Docs/download_unity.PNG" alt="Unity3D" width="400"/>
  
 
 
