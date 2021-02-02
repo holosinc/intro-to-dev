@@ -4,22 +4,22 @@
 
 ## What is Unity3D? 
 
-Remember from last section when we talk about VR as an *immersersive, simulated world*? Well, to make an environment that satsifies all the requirements, you need many components, from physics and lighting to 3D objects and sound. Once you finish develop your world, you need to consider VR integration and platforms, and list goes on. In other word, ***it is very complicated to create a world***. Fortunately, game engines take care of the behind the scene stuff so you as a developer can focus on creating your unique experiences. 
+Remember from last section when we talk about VR as an *immersersive, simulated world*? Well, to make a realistic environment that satsifies all the requirements, you need many components, from physics and lighting to 3D objects and sound. Once you finish develop your world, you need to consider VR integration and platforms, and list goes on. In other words, ***it is very complicated to create a world***. Fortunately, game engines take care of the behind the scene stuff so you as a developer can focus on creating your unique experiences. 
 
 Two of the most popular game engines for VR development are [Unity3D](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). For this VR development course, we will be focusing on Unity3D, which is easier to operate, more commonly used, and supports wide variety of platforms.  
 
 <img src="Docs/unity_logo.webp" alt="Unity3D" width="400"/>
 
-If the name Unity still sound unfamiliar to you, I'm sure you at least heard of one of the games developed by Unity!
+If the name Unity doesn't ring a bell with you, I'm sure you at least heard of one of the games developed on Unity!
 - Hearthstone: Heroes of Warcraft
 - Assassin's Creed Identity
-- Temple Run Series
+- Temple Run
 - Rust 
 - Fall Guys
 - And many more (hopefully one of your games too!)
 
 ## Get Started 
-Now that you have an understand of what Unity is and what you can do with it. Let's get started! 
+Now that you have an understanding of what Unity is and what you can do with it. Let's get started! 
 
 1. ### Download Unity Hub
     Unity Hub is a platform where you can manage all the Unity projects and their different versions. Go to Unity website (https://unity3d.com/get-unity/download) and "Download Unity Hub"
@@ -33,7 +33,7 @@ Now that you have an understand of what Unity is and what you can do with it. Le
 
    <img src="Docs/add_unity.PNG" alt="Unity3D" width="400"/>
 
-   For this tutorial, we will install `Unity 2019.4.18f1 (LTS)`. New Unity versions might come out but make sure to install the version with (`LTS`). LTS stands for ***Long Term Support***, which means Unity will continue to bug fix and support for two years after the release date. 
+   For this tutorial, we will install `Unity 2019.4.18f1 (LTS)`. New Unity versions might come out but make sure to install the version with (`LTS`). LTS stands for ***Long Term Support***, which means Unity will continue to bug fix and support for two years after the release date. This is helpful because you can continue developing your project without worrying about version issues.
 
     <img src="Docs/install_unity.PNG" alt="Unity3D" width="400"/>
 
