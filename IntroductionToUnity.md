@@ -23,6 +23,7 @@ Now that you have an understanding of what Unity is and what you can do with it.
 
 1. ### Download Unity Hub
     Unity Hub is a platform where you can manage all the Unity projects and their different versions. Go to Unity website (https://unity3d.com/get-unity/download) and "Download Unity Hub"
+    
     <img src="Docs/download_unityhub.PNG" alt="Unity3D" width="400"/>
  <br>
 

@@ -3,14 +3,14 @@
 <br/> 
 
 ## Introduction
-By now you should have some ideas of how Unity and Git works. I'm sure you are exicted to get your hands dirty. Alright, time for a challenge! In this challenge, each one of you will create a character that moves around and use Git to gather all the characters in one place!  
+By now you should have some ideas of how Unity and Git work. I'm sure you are excited to get your hands dirty. Alright, time for a challenge! In this challenge, each one of you will create a character that moves around and use Git to gather all the characters in one place!  
 
 ## Stages 
 ### Stage 1: Create a repository
 In this stage, you will practice initializing a team project and getting everyone on board. 
 1. Come up with a team name! 
 2. Communicate with your team and create one repository for the entire team. The name of the repo should be something like "TeamName_MiniChallenge_1".
-3. Initiate a 3D Unity project in the repo and add a plane to the scene, because we need a place for our Unity party!
+3. Initiate a 3D Unity project in the repo and add a plane to the scene, because we need a place for our characters to party!
 4. Don't forget to add Unity `.gitignore` to your project: https://github.com/github/gitignore/blob/master/Unity.gitignore
 5. Add everyone to the repository.
 6. Everyone should be able to clone the repository and see the plane on their computers. Something like this:
@@ -32,7 +32,7 @@ Awesome! Now you are ready to build your first virtual character. Get creative a
 ### Stage 3: Make it move
 Great job on building your first character! It looks cool but it seems to be missing something... Oh yeah, let's make the character move! 
 
-1. Create code and add motion to your character. It can be anything, changing colors, walking around etc. My robot is jumping because it is celebrating its victory! Here is the [my script]("/Scripts/Jump.cs") that you can refer to.
+1. Write code and add motion to your character. It can be anything, changing colors, walking around etc. My robot is jumping because it is celebrating its victory! Here is the [my script](./Scripts/Jump.cs) that you can refer to.
 
     <img src="Docs/jumping_character.gif" alt="A basic character" width="300"/>
 
