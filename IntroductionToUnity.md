@@ -24,6 +24,7 @@ Now that you have an understanding of what Unity is and what you can do with it.
 1. ### Download Unity Hub
     Unity Hub is a platform where you can manage all the Unity projects and their different versions. Go to Unity website (https://unity3d.com/get-unity/download) and "Download Unity Hub"
     <img src="Docs/download_unityhub.PNG" alt="Unity3D" width="400"/>
+ <br>
 
 2. ### Sign In and Download Unity
    Now that you have Unity Hub installed, you are one step closer to building your VR experience. Run Unity Hub and click on the top right icon to sign in. You might be qualified for free Unity Education license, check out [here](https://unity.com/education/license-grant-program). 
@@ -44,7 +45,14 @@ Now that you have an understanding of what Unity is and what you can do with it.
     Once if you finish selecting the modules, hit "Done". A downloading Unity should appear and you are on your way to become a VR developer! 
 
     <img src="Docs/download_unity.PNG" alt="Unity3D" width="400"/>
- 
+ <br>
+
+3. ### Some Helpful Resources
+    While Unity is downloading, here are some resources that can get you started.
+    - [Unity Learn](https://learn.unity.com/): A compilation of tutorials made by Unity
+    - [Unity Tutorial by raywenderlich](https://www.raywenderlich.com/unity/paths/learn): A website that is very helping for gettign started on Unity
+    - [Unity Documentation](https://docs.unity3d.com/Manual/index.html): Offical Unity documentation
+
 
 
 ## Common Q&A
