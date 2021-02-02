@@ -11,7 +11,7 @@ Virtual Reality, as its name suggests, is an ***immerserive, simulated world***.
 - *Simulated*: Very often the virtual world is computer generated or captured by a 360 degree camera to provide a surrounding experiencce.
 - *World*: A world should be three dimensional and its components should be responsive to your interaction as if you are actually in the space. For instance, if you are walking toward a playing speaker, the sound of the speaker should be louder as you get closer. 
     
-    <img src="Docs/women_vr_forest.webp" alt="Girl In VR" width="400"/>
+    <img src="Docs/women_vr_forest.png" alt="Girl In VR" width="400"/>
 
 <br/> 
 
@@ -39,7 +39,7 @@ Besides from fulfilling your wildest dream (which should be a good enough reason
 
 
 ##### Our favoriate: meet Rick from *Rick and Morty*! 
-<img src="Docs/rick_morty_vr.webp" alt="Medical In VR" width="400"/>
+<img src="Docs/rick_morty_vr.png" alt="Medical In VR" width="400"/>
 <br/> 
 
 ## Next Step

@@ -8,7 +8,7 @@ Remember from last section when we talk about VR as an *immersersive, simulated 
 
 Two of the most popular game engines for VR development are [Unity3D](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). For this VR development course, we will be focusing on Unity3D, which is easier to operate, more commonly used, and supports wide variety of platforms.  
 
-<img src="Docs/unity_logo.webp" alt="Unity3D" width="400"/>
+<img src="Docs/unity_logo.png" alt="Unity3D" width="400"/>
 
 If the name Unity doesn't ring a bell with you, I'm sure you at least heard of one of the games developed on Unity!
 - Hearthstone: Heroes of Warcraft
