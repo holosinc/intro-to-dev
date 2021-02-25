@@ -3,5 +3,4 @@
 
 <br/> 
 
-## Time for Some VR Fun!
-Congruation on making it this far! 
+## What is Leap Motion?
