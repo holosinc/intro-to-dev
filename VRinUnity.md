@@ -31,6 +31,7 @@ Great job on making your first VR project! How do you like it? Well, you might f
 
 ### 4. Seeing your scene in VR
 So here is my super simple scene consisted of a box and a tree made of a sphere and a cylinder.
+
 <img src="Docs/simple_first_scene.png" alt="Unity3D" width="400"/>.
 
 Once your scene is done, put on your headset and witness the wonders you created! 

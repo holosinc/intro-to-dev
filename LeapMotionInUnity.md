@@ -49,6 +49,7 @@ Extract the downloaded Leap Motion software and open the folder. You should see 
 
 (*Tip: If Windows Firewall warns you about the application, as long as you download the software from Ultraleap's official website, you can ignore the warning and continue*)
 After installing, when you run the driver, you should see something like this. This will be the control panel for your Leap Motion Controller.
+
 <img src="Docs/leap_control_panel.png" alt="Unity3D" width="400"/>
 
 <br>
@@ -57,6 +58,7 @@ After installing, when you run the driver, you should see something like this. T
 One last thing to install! Once the Unity modules finish downloading, extract the folder and you should see three UnityPackages called `Core`, `Hands`, and `Interaction Engine`. [Leap Motion's SDK](https://leapmotion.github.io/UnityModules/index.html) should tell you what each one does. I recommend importing all three packages. 
 
 To import Unity packages, go to the dropdown panel, select Assets-->Import Package-->Custom Package. 
+
 <img src="Docs/import_unitypackage.png" alt="Unity3D" width="400"/>
 
 A window should pop up and prompt you to select an unitypackage. Navigate to the folder where you have the extracted Unity Module and select one of three packages. Click "Open" and an import window should show up. Click "Import" and you just imported your first Unity package!
