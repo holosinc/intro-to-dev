@@ -5,6 +5,7 @@
 
 ## What is Leap Motion?
 Leap motion (now part of Ultraleap) is a company that makes finger tracking software and hardware. To simply put, it brings your hands into the computer so you can do cool things like this: 
+
 <img src="Docs/FIqc.gif" alt="Unity3D" width="400"/>
 
 or this:
@@ -43,7 +44,9 @@ Awesome! Next step is to install the drivers and softwares needed for running Le
 
 ### 3. Install Leap Motion Driver
 Extract the downloaded Leap Motion software and open the folder. You should see an exe file called `Ultraleap_Tracking_Software_Setup` and click on it. An install window should pop up and guide you through the installation procss. 
+
 <img src="Docs/install_leap_driver.png" alt="Unity3D" width="400"/>
+
 (*Tip: If Windows Firewall warns you about the application, as long as you download the software from Ultraleap's official website, you can ignore the warning and continue*)
 After installing, when you run the driver, you should see something like this. This will be the control panel for your Leap Motion Controller.
 <img src="Docs/leap_control_panel.png" alt="Unity3D" width="400"/>
@@ -70,9 +73,11 @@ Great job! Now it's finally Leap Motion time! Once you finished importing the Un
 Here are some of my favoriate demos!
 
 *Interaction Objects*
+
 <img src="Docs/interaction_objects.gif" alt="Unity3D" width="400"/>
 
 *Dynamic UI*
+
 <img src="Docs/dynamic_ui.gif" alt="Unity3D" width="400"/>
 
 <br>

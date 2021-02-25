@@ -9,6 +9,7 @@ Congrats on making it this far and hope you enjoyed making your own dancing avat
 ## Setting up VR in Unity
 ### 1. Start a new Unity project
 By now you should have an idea on how to create a new Unity project. Just in case if you forgot, check out [the tutorial here.](IntroductionToUnity.md). Open Unity Hub, select "New", and create a 3D project. I'm going name mine "VRDemo".
+
 <img src="Docs/create_vrdemo_project.png" alt="Unity3D" width="400"/>
 
 <br>
@@ -33,5 +34,6 @@ So here is my super simple scene consisted of a box and a tree made of a sphere 
 <img src="Docs/simple_first_scene.png" alt="Unity3D" width="400"/>.
 
 Once your scene is done, put on your headset and witness the wonders you created! 
+
 <img src="Docs/modified_first_vr_scene.gif" alt="Unity3D" width="400"/>.
 
