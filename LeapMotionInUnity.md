@@ -70,7 +70,7 @@ Do the same thing for the other two unitypackages. After you're done, pat yourse
 <br>
 
 ### 5. Time for Some Hands-on Fun!
-Great job! Now it's finally Leap Motion time! Once you finished importing the Unity module, you should see a `Plugins` folder appear in the Assets folder. Navigate to Assets-->Plugin-->Modules-->InteractionEngine-->Examples to find out some cool demos for you to play around. I highly recommend checking out each one. Pay attention to how everything is structed and how the interaction is different from those of typical controllers VR.
+Great job! Now it's finally Leap Motion time! Once you finished importing the Unity module, you should see a `Plugins` folder appear in the Assets folder. Navigate to `Assets-->Plugin-->Modules-->InteractionEngine-->Examples` to find out some cool demos for you to play around. I highly recommend checking out each one. Pay attention to how everything is structed and how the interaction is different from those of typical controllers VR.
 
 Here are some of my favoriate demos!
 
