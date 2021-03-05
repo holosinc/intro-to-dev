@@ -39,7 +39,8 @@ Now that you have an understanding of what Unity is and what you can do with it.
 
     <img src="Docs/install_unity.PNG" alt="Unity3D" width="400"/>
 
-    Next step is adding modules to the Unity install. Depending on your preference, you can install Visual Studio or Visual Studio Code (download [here](https://code.visualstudio.com/)). If you any further question regarding which module to get, refer to the [Q&A section](#common-qa).
+    Next step is adding modules to the Unity install. Depending on your preference, you can install Visual Studio or Visual Studio Code (download [here](https://code.visualstudio.com/)). If you any further question regarding which module to get, refer to the [Q&A section](#common-qa). *(Tips: Remeber to select "Andriod Build Support" if you are developing on Oculus Quest)*
+
 
     <img src="Docs/add_unity_module.PNG" alt="Unity3D" width="400"/>
 
@@ -48,7 +49,7 @@ Now that you have an understanding of what Unity is and what you can do with it.
     <img src="Docs/download_unity.PNG" alt="Unity3D" width="400"/>
  <br>
 
-3. ### Some Helpful Resources
+1. ### Some Helpful Resources
     While Unity is downloading, here are some resources that can get you started.
     - [Unity Learn](https://learn.unity.com/): A compilation of tutorials made by Unity
     - [Unity Tutorial by raywenderlich](https://www.raywenderlich.com/unity/paths/learn): A website that is very helping for gettign started on Unity
@@ -64,6 +65,6 @@ Now that you have an understanding of what Unity is and what you can do with it.
 2. What module do I need?
    
    - Always install `Documentation` since it will be very handy during development
-   - If you are building Augmented Reality (AR) or Google Cardboard apps for Andriod device, install `Andriod Build Support`.
+   - If you are building Augmented Reality (AR), Oculus Quest, or Google Cardboard apps for Andriod device, install `Andriod Build Support`.
    - If you are building AR or Google Cardboard apps, install `iOS Build Support`
    - If you are build desktop VR apps, you don't need to install anything.

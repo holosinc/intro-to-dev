@@ -49,25 +49,78 @@ Once your scene is done, put on your headset and witness the wonders you created
 <br>
 
 ## Oculus Quest
+Developing on a Quest is quite a bit different from developing on a HMD. Since Quest has its own Andriod operating system, the development process will feel more like making an Andriod app. Don't worry, we will teach you how in this section.
 
-### *Coming Soon!* 
+### 1. Install Android Module 
+If you follow the [Introduction to Unity](IntroductionToUnity.md) tutorial, you should have already installed the Andriod Module in Unity Hub. If not, close Unity, open Unity Hubm and follow the GIF below. 
+
+<img src="Docs/Add_module.gif" alt="Unity3D" width="400"/>
+
+### 2. Set up Quest
+
+While Andriod Module is downloading, let's make sure our Quest is ready for developing. Here is a quick checklist:
+- Enable developer mode
+- Allow USB Debugging for Quest
+
+If there is any further question, refer to [the document by Oculus](https://developer.oculus.com/documentation/unity/unity-enable-device/) for more information 
+
+### 3. Enable VR in Unity
+
+First, enable VR for your project by going to `Edit->Project Setting->Player->XR Settings` and check "Virtual Reality Supported". 
+
+<img src="Docs/Enable_VR.png" alt="Unity3D" width="400"/>
+
+If Unity doesn't automatically add Oculus SDK, click on the add buttton and manually select "Oculus"
+
+<img src="Docs/Select_Oculus_SDK.png" alt="Unity3D" width="400"/>
+
+Once that is done, scroll up to `Other Settings`, still under Player Setting, and change the order of graphics API by dragging the toggle so that `OpenGL` comes before Vulkan. This is just because Vulkan is not supported in VR at the moment.
+
+<img src="Docs/change_graphics_API.png" alt="Unity3D" width="400"/>
+
+### 4. Select your Quest in Build Setting
+Open Build Setting in the dropdown menu, and click "Add Open Scene" to add the scene you just constructed.
+
+<img src="Docs/Add_Open_scene.png" alt="Unity3D" width="400"/>
+
+Next, connect your Quest headset to your computer via Oculus Link and make sure it is turned on. Click "Andriod" in the platform section and you should select your Quest device in the `Run Device` dropdown. 
+
+<img src="Docs/Select_Quest_Andriod.png" alt="Unity3D" width="400"/>
+
+### 5. Switch Platform
+
+Then, simply click "Switch Platform" on the bottom right. After a while of compiling, you should see something like this:
+
+<img src="Docs/Switched_platform.png" alt="Unity3D" width="400"/>
+
+### 6. Build and Run Your Project! 
+Now you are getting incredibly close! Select `Build and Run`. You will be prompted to see name the build file. Enter a name and let it build! 
+
+After the project finishes building, put on your headset, go to `Apps->Unknown Sources->Your Unity Project` and celebrate your first VR project! 
+
+<img src="Docs/Scene_in_quest.gif" alt="Unity3D" width="400"/>
+
 
 <br>
+
 
 ## Without a HMD
 No headset no problem! Here is how you can simulate VR in Unity even without a HMD.
 
 ### 1. Install XR Pluging Management
 Open Project Setting in the dropdown menu (`Edit->Project Setting`).
-<img src="Docs/projecct_setting.png" alt="Unity3D" width="400"/>.
 
-And a window pops up and on the left you should see a "XR Plugin Management" tab, and click "Install XR Plugin Management"
+<img src="Docs/projecct_setting.png" alt="Unity3D" width="400"/>
+
+And a window pops up and on the left you should see a "XR Plugin Management" tab, and click "Install XR Plugin Management".
+
 <img src="Docs/xr_management.png" alt="Unity3D" width="400"/>
 
 <br>
 
 ### 2. Enable Mock HMD
 After you install XR Plugin Mangement, you should see a list of plug-in providers and enable `Unity Mock HMD`.
+
 <img src="Docs/installed_xr_management.png" alt="Unity3D" width="400"/>
 
 <br>
